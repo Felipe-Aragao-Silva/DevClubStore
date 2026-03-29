@@ -2,7 +2,6 @@
 
 Uma landing page de e-commerce futurista com carrossel de produtos animado, construída com HTML, CSS e JavaScript puro.
 
-![DevClub Store Preview](./img/preview.png)
 
 ---
 
@@ -80,4 +79,4 @@ devclub-store/
 
 ## 👨‍💻 Autor
 
-Desenvolvido durante os estudos de **Front-End** na [DevClub](https://devclub.com.br).
+Desenvolvido durante os estudos de **Front-End** seguindo os tutoriais do canal [DevClub](https://www.youtube.com/@canaldevclub) no YouTube.
